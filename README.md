@@ -35,3 +35,6 @@ O componente `Categories` exibe uma lista de categorias únicas dos produtos, pe
 - JavaScript
 - CSS
 - API Fake Store
+
+## Demo
+https://fake-store-sigma.vercel.app/
