@@ -27,7 +27,7 @@ function App() {
   };
 
   if (items === null) {
-    return <div>Loading...</div>;
+    return <div className="loading"><div class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div> ;
   }
 
   return (
